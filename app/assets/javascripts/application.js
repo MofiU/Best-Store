@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery-migrate
 //= require jquery-ui
 //= require flexslider
 //= require classie

@@ -35,8 +35,9 @@ gem 'devise'
 gem 'rolify'
 gem 'cancancan'
 
+
+gem 'jquery-ui-rails'
 source 'https://rails-assets.org' do
-  gem 'rails-assets-jquery-ui'
   gem 'rails-assets-noty'
   gem 'rails-assets-animate.css'
   gem 'rails-assets-swiper'
@@ -44,6 +45,7 @@ source 'https://rails-assets.org' do
   gem 'rails-assets-datatables-plugins'
   gem 'rails-assets-flexslider'
   gem 'rails-assets-classie'
+  gem 'rails-assets-jquery-migrate'
 end
 
 
