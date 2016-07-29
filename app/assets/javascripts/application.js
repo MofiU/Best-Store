@@ -14,6 +14,7 @@
 //= require jquery_ujs
 //= require jquery-migrate
 //= require jquery-ui
+//= require jquery.countdown
 //= require flexslider
 //= require classie
 //= require bootstrap-sprockets

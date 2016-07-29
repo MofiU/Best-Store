@@ -8,7 +8,6 @@ $(document).ready(function(){
 		timestamp : (new Date()).getTime() + 11*24*60*60*1000
 	});
 
-
 	/* ---- Animations ---- */
 
 	$('#links a').hover(

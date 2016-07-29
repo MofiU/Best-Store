@@ -4,6 +4,6 @@ class HomeController < ApplicationController
   end
 
   def error_404
-    render_404
+    render 'errors/404'
   end
 end
